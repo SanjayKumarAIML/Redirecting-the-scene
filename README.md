@@ -71,10 +71,10 @@ public class cube : MonoBehaviour
 ## Output:
 ### Scene 1:
 #### Sphere before hitting cube
-![image](https://github.com/ShafeeqAhamedS/Redirecting-the-scene/assets/93427237/c7c507b1-83c6-4651-9830-825d8b60666c)
+![image](https://github.com/SanjayKumarAIML/Redirecting-the-scene/assets/93427246/edb79ce4-82be-4040-af3d-42307f3021d8)
 #### Sphere After hitting cube
-![image](https://github.com/ShafeeqAhamedS/Redirecting-the-scene/assets/93427237/c1157541-a099-4734-b001-135cc6f86d3b)
+![image](https://github.com/SanjayKumarAIML/Redirecting-the-scene/assets/93427246/e30f774b-eecb-4d8d-9dc7-46ef0e7a65c4)
 ### Redirected scene:
-![image](https://github.com/ShafeeqAhamedS/Redirecting-the-scene/assets/93427237/bb81db21-9151-4140-87fd-5e7038dbb8db)
+![image](https://github.com/SanjayKumarAIML/Redirecting-the-scene/assets/93427246/129657fd-f926-4ad1-a1da-38bce720bd2b)
 ## Result:
 Thus, redirecting the scene is successfully execcuted in the unity engine.
